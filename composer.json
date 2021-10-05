@@ -12,7 +12,7 @@
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "files": "src/SpeedFreightShipmentAutoload.php"
+        "files": ["src/SpeedFreightShipmentAutoload.php"]
     },
     "require": {}
 }
