@@ -1,18 +1,12 @@
 {
-    "name": "wwex/speedfreightshipment",
-    "description": "SpeedFreightShipment",
-    "version": "0.0.1",
+    "name": "root/wwex-speed-freight-shipment",
+    "description": "WWEX",
     "type": "library",
-    "license": "MIT",
     "authors": [
         {
-            "name": "Chandirasekaran",
+            "name": "chandirasekaran senniyappan",
             "email": "chandirasekaranid@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "autoload": {
-        "files": ["src/SpeedFreightShipmentAutoload.php"]
-    },
     "require": {}
 }
