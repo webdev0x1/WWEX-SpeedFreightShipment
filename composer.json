@@ -1,0 +1,17 @@
+{
+    "name": "WWEX/SpeedFreightShipment",
+    "description": "SpeedFreightShipment",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chandirasekaran",
+            "email": "chandirasekaranid@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"WWEX\\SpeedFreightShipment\\": "src/"}
+    },
+    "require": {}
+}
